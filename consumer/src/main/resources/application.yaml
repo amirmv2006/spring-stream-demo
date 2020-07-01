@@ -1,0 +1,6 @@
+spring:
+  cloud:
+    stream:
+      bindings:
+        log-in-0:
+          destination: amir-topic
